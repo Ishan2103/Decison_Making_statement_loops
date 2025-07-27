@@ -203,6 +203,7 @@ Floyd’s triangle reinforces **nested loop growth** and **incremental counters*
 
 **Output:**
 Enter number of rows: 4
+
 1
 
 2 3
